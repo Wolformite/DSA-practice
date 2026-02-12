@@ -5,3 +5,4 @@ This repository contains my practise solutions for basic data structures and alg
 
 
 ## Language
+The language used is **Python**
