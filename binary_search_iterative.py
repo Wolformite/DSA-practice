@@ -20,9 +20,4 @@ def binary_search_iterative(arr, target):
             right = mid - 1
 
     return -1
-if __name__ == "__main__":
-    arr = [1, 3, 5, 7, 9, 11, 13]
 
-    target = 7
-
-    print("Iterative Result:", binary_search_iterative(arr, target))
